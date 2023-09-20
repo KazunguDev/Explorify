@@ -1,0 +1,1 @@
+<img src="{{asset ('images/logo-tp.png')}}" style="width: 70px;height: 70px;">
